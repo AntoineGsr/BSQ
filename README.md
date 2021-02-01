@@ -10,4 +10,4 @@ To execute the BSQ:
 3rd step -> ./bsq map.txt
 
 This project could be faster and can be done with an other kind of algorithm.
-Make your own BSQ. Good luck.
+Code your own BSQ. Good luck.
