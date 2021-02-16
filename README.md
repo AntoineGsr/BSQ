@@ -9,11 +9,5 @@ To execute the BSQ:
 2nd step -> make ; make clean ;
 3rd step -> ./bsq map.txt
 
-Map example:
-3
-...o
-..o.
-....
-
 This project could be faster and can be done with an other kind of algorithm.
 Code your own BSQ. Good luck.
